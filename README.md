@@ -29,5 +29,4 @@ npm install
 # Inicia a aplicação
 yarn start
 
-# Imagem da tela inicial do projeto
-(public/images/interface-example.png) 
+![](public/images/interface-example.png) 
