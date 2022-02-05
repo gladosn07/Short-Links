@@ -7,8 +7,8 @@ A aplicação pode ser desenvolvida utilizando um framework/bilioteca front-end.
 ## 🛠 Tecnologias utilizadas
 
 - ⚛️ **React** — Single page application
-- 💅 **React-icons** — Estilização dos componentes
 - ⚛️ **react-router-dom** - Roteamento de rotas
+- 💅 **React-icons** — Estilização dos componente
 - 📡 **Axios** — Requisições a API
 
 ## 🚀 Rodando o projeto
