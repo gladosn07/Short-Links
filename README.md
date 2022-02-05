@@ -29,6 +29,5 @@ npm install
 # Inicia a aplicação
 yarn start
 
-# Acesse http://localhost:3000 para utilizar a aplicação
-
-```
+# Imagem da tela inicial do projeto
+(public/images/interface-example.png) 
