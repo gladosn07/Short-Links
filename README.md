@@ -29,4 +29,4 @@ npm install
 # Inicia a aplicação
 yarn start
 
-![](images/interface-example.png) 
+![](public/images/image-short-links.png) 
