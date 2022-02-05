@@ -1,0 +1,56 @@
+.container-modal {
+  position: absolute;
+  bottom: 35px;
+  background-color: #fff;
+  padding: 14px;
+  width: 700px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  animation: slideY 1.3s;
+}
+
+.header-modal {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-modal {
+  border: none;
+  background: transparent;
+}
+
+.close-Modal {
+  cursor: pointer;
+  border: none;
+  background: transparent;
+}
+
+.container-modal span {
+  font-size: 20px;
+  margin: 14px 0;
+  color: #a7a7a7;
+}
+
+.btn-ShortLink {
+  background-color: #172742;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 14px;
+  height: 38px;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+}
+
+@keyframes slideY {
+  0% {
+    transform: translateY(35px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}

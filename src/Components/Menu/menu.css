@@ -1,0 +1,27 @@
+.menu-content {
+    position: absolute;
+    top: 30px;
+    right: 7%;
+    display: flex;
+    align-items: center;
+}
+
+.menu-content a {
+    text-decoration: none;
+    margin-left: 25px;
+}
+
+.my-Links {
+    color: #000;
+    background-color: #FFF;
+    padding: 9px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 20px;
+    transition: transform 0.5s;
+}
+
+.my-Links:hover {
+    transform: scale(1.05);
+}
